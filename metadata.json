@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Constructor Bot",
+  "description": "An application that transforms simple user requests into structured, professional prompts for Large Language Models (LLMs) like ChatGPT and Claude, enhancing the quality of AI-generated responses without requiring prompt engineering skills.",
+  "requestFramePermissions": []
+}
